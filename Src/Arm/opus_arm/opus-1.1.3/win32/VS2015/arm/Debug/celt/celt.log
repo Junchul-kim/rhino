@@ -1,0 +1,32 @@
+﻿  fatal: Not a git repository: 'D:\Codec\opus-1.1.3.tar\opus-1.1.3\win32\..\.git'
+cl : Command line warning D9002: ignoring unknown option '/arch:IA32'
+  x86_celt_map.c
+  x86cpu.c
+  pitch_sse4_1.c
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmmintrin.h(31): fatal error C1189: #error:  This header is specific to X86 and X64 targets
+  pitch_sse2.c
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmmintrin.h(31): fatal error C1189: #error:  This header is specific to X86 and X64 targets
+  pitch_sse.c
+  celt_lpc_sse.c
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmmintrin.h(31): fatal error C1189: #error:  This header is specific to X86 and X64 targets
+  vq.c
+  rate.c
+  quant_bands.c
+  pitch.c
+  modes.c
+  mdct.c
+  mathops.c
+  laplace.c
+  kiss_fft.c
+  entenc.c
+  entdec.c
+  entcode.c
+  cwrs.c
+  celt_lpc.c
+  Generating Code...
+  Compiling...
+  celt_encoder.c
+  celt_decoder.c
+  celt.c
+  bands.c
+  Generating Code...

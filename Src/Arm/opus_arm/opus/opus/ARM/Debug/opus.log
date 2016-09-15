@@ -1,0 +1,33 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  pch.c
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  analysis.c
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  mlp.c
+  mlp_data.c
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  opus.c
+src\opus.c(110): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  opus_compare.c
+  opus_decoder.c
+  opus_encoder.c
+  opus_multistream.c
+src\opus_compare.c(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\opus_compare.c(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\opus_compare.c(349): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\opus_compare.c(367): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\opus_compare.c(219): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+src\opus_compare.c(224): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+src\opus_decoder.c(638): warning C4013: 'opus_packet_parse_impl' undefined; assuming extern returning int
+src\opus_encoder.c(1425): warning C4013: 'opus_repacketizer_out_range_impl' undefined; assuming extern returning int
+  opus_multistream_decoder.c
+  opus_multistream_encoder.c
+  repacketizer.c
+src\opus_multistream_decoder.c(170): warning C4013: 'opus_packet_parse_impl' undefined; assuming extern returning int
+src\opus_multistream_encoder.c(1039): warning C4013: 'opus_repacketizer_out_range_impl' undefined; assuming extern returning int
+src\repacketizer.c(85): warning C4013: 'opus_packet_parse_impl' undefined; assuming extern returning int
+  opus.vcxproj -> D:\Codec\Git\opus_arm\opus_demo\ARM\Debug\opus\opus.lib

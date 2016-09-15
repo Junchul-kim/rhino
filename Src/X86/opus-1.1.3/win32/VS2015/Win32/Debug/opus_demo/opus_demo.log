@@ -1,0 +1,4 @@
+﻿  opus_demo.c
+..\..\src\opus_demo.c(793): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  opus_demo.vcxproj -> D:\Codec\Git\opus-1.1.3\win32\VS2015\Win32\Debug\opus_demo.exe
+  opus_demo.vcxproj -> Win32\Debug\opus_demo.pdb (Full PDB)
